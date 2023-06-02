@@ -1,3 +1,7 @@
+# Don't use the provided private and public keys in your Production Environment
+# For TESTING PURPOSES ONLY!!!
+# Generate your own Keys!
+
 # openssl-java-encrypt-decrypt
 Java Console using OpenSSL to Encrypt and Decrypt.
 
